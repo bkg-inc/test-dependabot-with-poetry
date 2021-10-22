@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "test-dependabot-with-poetry"
+version = "0.0.0"
+description = "Test Dependabot with Poetry"
+authors = ["Yaraslau Zhylko <YaraslauZhylko@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9.7"
+arrow = "^0.10.0"
+
+[tool.poetry.dev-dependencies]
+black = "==21.9b0"
+
+[build-system]
+requires = ["poetry>=1.1.11"]
+build-backend = "poetry.masonry.api"
