@@ -125,8 +125,8 @@ python-versions = "*"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "3.9.7"
-content-hash = "1e27418216c0c8f98d59e2147e492dc75fbb698305fa75396fe8c19733c9d2b7"
+python-versions = "3.9.6"
+content-hash = "695de13f5a3810e9280fb6597690991c3785185939459e96fa22857a5ba53dd2"
 
 [metadata.files]
 arrow = [
