@@ -5,7 +5,7 @@ description = "Test Dependabot with Poetry"
 authors = ["Yaraslau Zhylko <YaraslauZhylko@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "3.9.6"
+python = "3.9.7"
 arrow = "^0.10.0"
 
 [tool.poetry.dev-dependencies]
