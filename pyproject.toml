@@ -9,7 +9,7 @@ python = "3.9.7"
 arrow = "^0.10.0"
 
 [tool.poetry.dev-dependencies]
-black = "==21.9b0"
+black = {version = "==21.8b0", allows-prereleases = true}
 
 [build-system]
 requires = ["poetry>=1.1.11"]
