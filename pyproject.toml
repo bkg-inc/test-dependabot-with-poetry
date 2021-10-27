@@ -6,7 +6,7 @@ authors = ["Yaraslau Zhylko <YaraslauZhylko@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "3.10.0"
-arrow = "^0.10.0"
+arrow = "^1.2.1"
 
 [tool.poetry.dev-dependencies]
 black = {version = "==21.8b0", allows-prereleases = true}
